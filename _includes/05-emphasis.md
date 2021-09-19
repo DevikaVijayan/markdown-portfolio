@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+My attributes include I'm *cooperative* and _trustworthy_.
+My skills in programming languages include **C++** and __JAVA__.
